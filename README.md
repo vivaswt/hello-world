@@ -1,3 +1,3 @@
 # hello-world
-## 概要
-はじめてのgit hub
+- はじめてのgit hub
+- ローカルで追加した行
